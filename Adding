@@ -1,5 +1,6 @@
 class Add{
 public Static Void Main(String[] args){
+  System.out.println("Welcome");
     int a=10;
     int b=20;
     int c=a+b;
